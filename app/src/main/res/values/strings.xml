@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Vault Demo</string>
+    <!-- Strings related to unlock -->
+    <string name="prompt_password">Password</string>
+    <string name="action_unlock">Unlock</string>
+    <string name="balance">"Account balance: "</string>
+    <string name="invalid_password">Please enter a password.</string>
+    <string name="unlock_failed">"Unlocking vault failed"</string>
+    <string name="title_activity_main">Vault unlocked!</string>
+</resources>
